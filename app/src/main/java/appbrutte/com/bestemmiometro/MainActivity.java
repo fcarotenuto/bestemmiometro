@@ -17,7 +17,9 @@ import com.facebook.FacebookSdk;
 
 import java.util.ArrayList;
 import java.util.Locale;
-
+/**
+ * Main Activity
+* */
 public class MainActivity extends AppCompatActivity {
     private final int REQ_CODE_SPEECH_INPUT = 100;
     private TextView txtBestemmia;

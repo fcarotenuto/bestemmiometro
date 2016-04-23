@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bestemmiometro</string>
+    <string name="speech_not_supported">Non puoi bestemmiare</string>
+    <string name="init_btn_bestemmia">Inizia a bestemmiare</string>
+    <string name="continue_btn_bestemmia">Continua a bestemmiare</string>
+    <string name="facebook_app_id">1053988044661632</string>
+
+</resources>
